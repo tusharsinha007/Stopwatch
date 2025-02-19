@@ -3,7 +3,7 @@ const startButton = document.getElementById('start');
 const stopButton = document.getElementById('stop');
 const resetButton = document.getElementById('reset');
 
-let startTime = 0;
+let startTime = 0; 
 let elapsedTime = 0;
 let timerInterval;
 
